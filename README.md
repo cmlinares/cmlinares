@@ -22,7 +22,8 @@ I’m always happy to connect with others on learning journeys, especially in:
 ---
 
 ### 📫 How to reach me
-You can reach me **right here on GitHub**! or in Linkedin http://linkedin.com/in/cristian-linares-ordonez
+You can reach me **right here on GitHub**! or in <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/91453a12-739a-4408-b65f-b4e26f4a39f8" />
+Linkedin http://linkedin.com/in/cristian-linares-ordonez
 
 ---
 
