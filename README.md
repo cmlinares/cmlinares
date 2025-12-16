@@ -1,30 +1,33 @@
-## Hi there 👋
+Hi there 👋
 
-I'm Cristian a **Computer Science student** with a professional background in **time management and organization at DHL**. Originally from **Colombia** 🇨🇴, I’m now based in **Germany** 🇩🇪 and currently pursuing a career transition into **machine learning engineering**.
+I’m Cristian, an operations and logistics professional with over 10 years of experience at Deutsche Post DHL, currently strengthening my technical foundations through an MSc in Computer Science.
 
----
+My background is in organization, time management, tour planning, and process optimization in large-scale operational environments. I’m now systematically expanding my skills in software engineering, data analysis, and applied analytics, with the goal of building data-driven solutions for complex planning and decision-making problems.
 
-### 🎯 About Me
-- 📚 Studying Computer Science (currently focused on **software design** and **systems architecture**)
-- 💼 Experienced in logistics, time management, and operational efficiency at **DHL**
-- 🔁 On a mission to shift into the world of **machine learning**
-- 🌐 Multilingual: I speak **Spanish**, **English**, and **German**
-- 🎶 Fun fact: I’m passionate about **music** and i have a bachelor in Audio engineering!.
+⸻
 
----
+🎯 About Me
+	•	🎓 MSc Computer Science (in progress) — focused on programming, software design, data structures, and applied analytics
+	•	📦 Strong domain expertise in logistics, operations, Zeitwirtschaft, and resource planning (DHL)
+	•	📊 Interested in applied data science, operational analytics, and decision-support systems
+	•	🔄 Long-term goal: evolve toward machine learning–based planning and optimization systems
+	•	🌍 Multilingual: Spanish, English, and German
+	•	🎶 Background in audio engineering — experienced in recording, mastering, and live technical production
 
-### 🤝 Open to Collaboration
-I’m always happy to connect with others on learning journeys, especially in:
-- Machine learning
-- Software engineering
-- Career switching into tech
+⸻
 
----
+🤝 Open to Collaboration
 
-### 📫 How to reach me
-You can reach me **right here on GitHub**! or in <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/91453a12-739a-4408-b65f-b4e26f4a39f8" />
-Linkedin http://linkedin.com/in/cristian-linares-ordonez
+I’m happy to collaborate on:
+	•	Applied data science projects
+	•	Operational analytics & planning use cases
+	•	Software tools for data analysis and decision support
+	•	Learning-oriented projects that connect real-world processes with code
 
----
+⸻
 
-Thanks for stopping by! 😊
+📫 How to reach me
+	•	GitHub: right here
+	•	LinkedIn: http://linkedin.com/in/cristian-linares-ordonez
+
+Thanks for stopping by 👋
