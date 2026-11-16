@@ -1,96 +1,127 @@
-Hi there 👋 I’m Cristian
+# Hi there 👋 I’m Cristian
 
-I’m an operations and logistics professional transitioning into Data Science, AI, and Machine Learning, combining more than 10 years of experience at Deutsche Post DHL with a growing technical foundation in computer science.
+I’m an operations and logistics professional with more than 10 years of experience at Deutsche Post DHL, currently building my technical foundation in **Computer Science, Data Engineering, Machine Learning and MLOps**.
 
-My professional background is in organization, time management, workforce and resource planning, route planning, operational analysis, and process optimization within large-scale logistics environments.
+My professional background is in large-scale operational environments, with a focus on **last-mile route planning and optimization, workforce and resource planning, time management, operational analysis and process improvement**.
 
-I’m currently completing an MSc in Computer Science at Heriot-Watt University, while systematically developing my skills in Python, SQL, data engineering, machine learning, and artificial intelligence.
+I’m currently completing an **MSc in Computer Science with a Specialism in Artificial Intelligence at Heriot-Watt University**.
 
-My goal is to connect both worlds: deep operational understanding and modern data-driven technology.
+My goal is to combine deep operational understanding with the engineering skills required to build reliable data and machine-learning systems for real-world problems.
 
-I’m particularly interested in building systems that don’t just report what happened, but help explain why it happened, what is likely to happen next, and how better decisions can be made.
+---
 
-⸻
+## 🎯 Current Focus
 
-🎯 Current Focus
+- 🐍 **Python** — developing strong, production-oriented programming skills
+- 🗄️ **SQL & Databases** — PostgreSQL, relational modelling, database design and data quality
+- ⚙️ **Data Engineering** — learning to build reliable ingestion, transformation and data-processing workflows
+- 🤖 **Machine Learning & AI** — developing the foundations required to train, evaluate and apply intelligent models
+- 🔄 **MLOps & ML Engineering** — exploring how ML systems move from experimentation into reliable production environments
+- 🚚 **Operations & Optimization** — applying technical methods to planning, routing, capacity, productivity and resource-allocation problems
 
-* 🐍 Python — developing production-level proficiency for data, analytics, and machine learning
-* 🗄️ SQL & Databases — relational modelling, PostgreSQL, data querying, and data architecture
-* 🤖 Machine Learning & AI — building strong foundations for applied ML and intelligent systems
-* 📊 Data Analytics — transforming operational data into actionable insights
-* ⚙️ Software Engineering — designing maintainable and robust data-driven applications
-* 🚚 Operations & Optimization — applying technology to real-world logistics, planning, productivity, and resource-allocation problems
+---
 
-⸻
+## 🧠 Background
 
-🧠 Background
+- 🎓 **MSc Computer Science — Specialism in Artificial Intelligence**, Heriot-Watt University — in progress
+- 📦 **10+ years at Deutsche Post DHL** across logistics and operational environments
+- 🛣️ Experience in **last-mile route planning and optimization**
+- 👥 Workforce, time and resource planning
+- 📊 Operational and performance analysis
+- 🔄 Process improvement and continuous improvement
+- 📐 **REFA Arbeitsorganisator der DHL Group**
+- 🏅 **First Choice Master Bronze**
+- 🌍 Spanish · English · German
+- 🎶 Previous background in Audio Engineering and technical production
 
-* 🎓 MSc Computer Science — Heriot-Watt University (in progress)
-* 📦 10+ years at Deutsche Post DHL in logistics and large-scale operational environments
-* 📐 Experience in organization, time management, workforce and resource planning, route planning, operational analysis, and process optimization
-* 🔄 REFA Work Organization & First Choice Master Bronze
-* 🌍 Fluent in Spanish, English, and German
-* 🎶 Background in Audio Engineering, including recording, mastering, and live technical production
+---
 
-⸻
+## 🛠️ Current Technical Foundation
 
-🛠️ Technical Stack
+**Programming & Data**
 
-Primary Focus
+Python · SQL · PostgreSQL · CLI
 
-Python · SQL · PostgreSQL · Pandas · Machine Learning
+**Databases**
 
-Software & Data
+Relational Databases · Data Modeling · Database Design
 
-Java · Spring Boot · REST APIs · Git · GitHub · Snowflake
+**Software Engineering**
 
-Currently Expanding
+Git · GitHub · Object-Oriented Programming · Data Structures · Java
 
-Power BI · Azure · Databricks · Deep Learning · Artificial Intelligence
+**Current Academic Focus**
 
-⸻
+Artificial Intelligence · Machine Learning · Data Engineering · MLOps
 
-🚀 What I’m Building Toward
+---
 
-My long-term direction is at the intersection of:
+## 🚀 Projects
 
-Operations + Data + Machine Learning + Decision Support
+### Freight Analytics
 
-I’m especially interested in systems for:
+An evolving Data Engineering project based on public European freight-transport data.
 
-* Operational forecasting
-* Productivity and process analysis
-* Resource and capacity planning
-* Logistics optimization
-* Anomaly detection
-* Data-driven decision support
-* Applied machine learning in operational environments
+The project is being used to develop practical experience with:
 
-I believe the strongest technical solutions start with understanding the business process, its operational context, and the people who actually work with it.
+- data ingestion and validation
+- Python-based data processing
+- PostgreSQL
+- relational and analytical data modelling
+- SQL analysis
+- data-quality checks
+- reproducible pipelines
+- testing and engineering practices
 
-⸻
+The objective is not simply to analyse a dataset, but to progressively build a reliable data pipeline around it.
 
-🤝 Open to Collaboration
+---
 
-I’m interested in projects involving:
+### MSc Capstone — Current Direction
 
-* Applied Data Science
-* Machine Learning
-* Operational Analytics
-* Logistics & Optimization
-* Data Engineering
-* Decision-Support Systems
-* Python-based data applications
+My current capstone direction is the design and evaluation of an **end-to-end Data Engineering and MLOps platform for logistics applications**.
 
-Projects that connect real operational problems with software, data, and machine learning are particularly interesting to me.
+The concept explores the complete lifecycle:
 
-⸻
+**Data Sources → Data Engineering → ML Training → Deployment → Monitoring → Retraining**
 
-📫 Connect with Me
+The project is intended to combine a substantial academic AI/ML research question with practical engineering across data pipelines, reproducible ML workflows, deployment, monitoring and model lifecycle management.
 
-* GitHub: You’re already here 👋
-* LinkedIn: linkedin.com/in/cristian-linares-ordonez
+The concept is still preliminary and subject to research, feasibility assessment and university approval.
 
-⸻
+---
 
-Business first. Technology should solve real problems — not create new ones.
+## 🧭 Where I’m Heading
+
+My long-term technical direction is:
+
+**Data Engineering → ML Engineering / MLOps → AI Engineering**
+
+This is not about collecting technologies.
+
+I’m interested in understanding how reliable systems are engineered across the complete lifecycle:
+
+**Data → Models → Deployment → Monitoring → Improvement**
+
+Logistics, transportation, supply chain and industrial operations are particularly interesting to me because they connect naturally with my professional background, but I’m also interested in other domains where data, automation and intelligent systems can solve meaningful problems.
+
+---
+
+## 💡 How I Approach Problems
+
+My professional experience has taught me that technical solutions only make sense when the underlying problem is properly understood.
+
+In operational environments, data rarely tells the entire story by itself. Processes, constraints, resources and real-world conditions matter.
+
+My approach is therefore:
+
+**Understand the problem → understand the data → build the system → validate the result → improve it**
+
+Technology should support the problem being solved, not become the problem itself.
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** linkedin.com/in/cristian-linares-ordonez
+- **Website:** cristian-linares.com
